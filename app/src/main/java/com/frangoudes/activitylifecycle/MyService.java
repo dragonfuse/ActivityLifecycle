@@ -10,11 +10,6 @@ import android.widget.Toast;
  * Created by chris on 01-02-17.
  */
 
-/*
-public class MyService {
-}
-*/
-
 public class MyService extends Service {
     @Nullable
     @Override
